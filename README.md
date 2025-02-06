@@ -1,1 +1,7 @@
-This project focuses on building a speech recognition model to predict dialects of the Gujarati language. Using 13 Mel-Frequency Cepstral Coefficients (MFCCs), the system extracts compact and meaningful features representing the speech signal. Data augmentation techniques such as time stretching, pitch shifting, noise injection, and temporal shifting were applied to enhance the model's robustness and generalization. The extracted features were used to train a machine learning model, achieving significant accuracy in distinguishing Gujarati dialects, demonstrating the effectiveness of MFCC features and augmentation techniques.
+# Speech Recognition for Gujarati Dialect Prediction
+This project focuses on speech recognition and audio signal processing to predict the dialects of the Gujarati language. The model uses advanced machine learning techniques to analyze and classify spoken audio into different dialect categories.
+
+### Features
+- Speech Recognition: Converts spoken audio into text.
+- Dialect Prediction: Predicts the dialect of Gujarati based on the spoken audio.
+- Audio Signal Processing: Preprocessing and feature extraction from raw audio data.
